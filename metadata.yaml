@@ -1,0 +1,9 @@
+name: "astrbot_plugin_food_calorie"
+display_name: "食物卡路里提醒"
+author: "海星盖"
+version: "1.2.0"
+desc: "发食物图片时，给模型补一句自然聊热量的提示；不抢回复、不调用外部 API、不保存聊天数据。"
+repo: "https://github.com/haixingei/astrbot_plugin_food_calorie"
+astrbot_version: ">=4.0.0"
+support_platforms:
+  - aiocqhttp

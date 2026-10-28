@@ -1,0 +1,21 @@
+{
+  "enable": true,
+  "trigger_mode": "auto",
+  "trigger_keywords": [
+    "卡路里",
+    "热量",
+    "多少卡",
+    "大卡",
+    "kcal",
+    "会胖",
+    "减肥",
+    "吃了多少"
+  ],
+  "group_ids": [
+    "123456789"
+  ],
+  "enable_private": false,
+  "private_ids": [],
+  "hint": "",
+  "log_injections": true
+}
